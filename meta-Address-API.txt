@@ -1,0 +1,18 @@
+{
+  "messaging_product": "whatsapp",
+  "recipient_type": "individual",
+  "to": "+919108105199",
+  "type": "interactive",
+  "interactive": {
+    "type": "address_message",
+    "body": {
+      "text": "Thanks for your order!  Tell us what address you’d like this order delivered to."
+    },
+    "action": {
+      "name": "address_message",
+      "parameters": {
+        "country": "IN"
+      }
+    }
+  }
+}
