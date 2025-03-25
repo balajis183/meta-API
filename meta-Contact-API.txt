@@ -1,0 +1,30 @@
+{
+  "messaging_product": "whatsapp",
+  "to": "+919164949099",
+  "type": "template",
+  "template": {
+    "name": "payment",
+    "language": {
+      "code": "en_US"
+    },
+    "components": [
+      {
+        "type": "body",
+        "parameters": [
+          { "type": "text", "text": "John" },
+          { "type": "text", "text": "CS Mutual Checking" },
+          { "type": "text", "text": "Jan 1, 2024" },
+          { "type": "text", "text": "$12.34" }
+        ]
+      },
+      {
+        "type": "button",
+        "sub_type": "url",
+        "index": "0",
+        "parameters": [
+          { "type": "text", "text": "https://your-payment-link.com/view" }
+        ]
+      }
+    ]
+  }
+}

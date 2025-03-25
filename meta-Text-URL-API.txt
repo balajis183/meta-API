@@ -1,0 +1,11 @@
+{
+    "messaging_product": "whatsapp",
+    "recipient_type": "individual",
+    "to": "919164949099",
+    "type": "text",
+    "text": {
+        "preview_url": true,
+        // "body": "Check out our admin dashboard:https://balajis183.github.io/spiway-admin-dashboard/"
+        "body": "Check out our website  visit  : https://bluebex.in/"
+    }
+}

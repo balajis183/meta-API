@@ -1,0 +1,10 @@
+{
+  "messaging_product": "whatsapp",
+  "recipient_type": "individual",
+  "to": "+919164949099",
+  "type": "video",
+  "video": {
+    "link": "https://samplelib.com/lib/preview/mp4/sample-5s.mp4",
+    "caption": " Watch the cars passing through little traffic!!!"
+  }
+}

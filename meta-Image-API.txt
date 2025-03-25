@@ -1,0 +1,13 @@
+{
+  "messaging_product": "whatsapp",
+  "to": "919164949099",
+  "type": "image",
+  "image": {
+    // "link": "https://images.unsplash.com/photo-1521747116042-5a810fda9664", 
+    // "caption": "🌅 Stunning Sunset View\n\nExperience the beauty of nature. 🌍✨"
+    "link" :"https://images.unsplash.com/photo-1444703686981-a3abbc4d4fe3",
+    "caption": "Under the endless night sky, dreams take flight beyond the stars."
+
+  }
+}
+

@@ -1,0 +1,9 @@
+{
+  "messaging_product": "whatsapp",
+  "recipient_type": "individual",
+  "to": "9108105199",
+  "type": "audio",
+  "audio": {
+    "link": "https://samplelib.com/lib/preview/mp3/sample-3s.mp3"
+  }
+}

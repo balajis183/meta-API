@@ -1,0 +1,15 @@
+{
+  "messaging_product": "whatsapp",
+  "recipient_type": "individual",
+  "to": "+919164949099",
+  "type": "interactive",
+  "interactive": {
+    "type": "location_request_message",
+    "body": {
+      "text": "Hi! To assist you better, please share your current location by clicking the button below."
+    },
+    "action": {
+      "name": "send_location"
+    }
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "messaging_product": "whatsapp",
+  "to": "+919108105199",
+  "type": "text",
+  "text": { "body": "Hello sir , this is balaji . This is a sample text message" }
+}
