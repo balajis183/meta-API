@@ -1,0 +1,21 @@
+From the past 3 working days i.e. from 22-03-2025 this is progress... for setting up WhatsApp API cloud we need to have 4 fields, we need to create Meta developer account . After creating we  require 4 fields  Phone number Id,  Access token for Authentication , from and to number .    
+
+
+While coming to Authentication , part we have created a  permanent access token so it resolves the security concern !
+
+As per the meta policy we can't send a promotional message without the user consent or without the user initiates the chat... so we have created many API URLs with the user consent like text-message, pdf-file, image with caption, address, audio, text-message with url, location, video, contact etc. it's through without use the template..
+
+The only solution for sending the message without the user consent we need to use approved  WhatsApp templates provided by Meta.  
+
+
+Although we are able to send the template using the test number provided by meta .. it also requires the user consent like requiring OTP...
+
+for time being we have using the test number for sending the templates..
+
+We have also created some templates for test message,  purchase_1 ( from pdf ) , pdf format  and greetings template ( visit the website /call phone no)
+
+The challenges  is that we were unable send through a template with the official business account is it requires business info in order to send message without the consent of user .
+
+Once we update the business info we will able to send templates from the official business WhatsApp Account.
+
+Also we can add terms of service too then it would be perfect to send optimize messages for customers.
