@@ -1,30 +1,53 @@
 {
   "messaging_product": "whatsapp",
-  "to": "+919164949099",
-  "type": "template",
-  "template": {
-    "name": "payment",
-    "language": {
-      "code": "en_US"
-    },
-    "components": [
-      {
-        "type": "body",
-        "parameters": [
-          { "type": "text", "text": "John" },
-          { "type": "text", "text": "CS Mutual Checking" },
-          { "type": "text", "text": "Jan 1, 2024" },
-          { "type": "text", "text": "$12.34" }
-        ]
+  "to": "919108105199",
+  "type": "contacts",
+  "contacts": [
+    {
+      "addresses": [
+        {
+          "street": "HSR Layout, Sector 7",
+          "city": "Bengaluru",
+          "state": "Karnataka",
+          "zip": "560068",
+          "country": "India",
+          "country_code": "IN",
+          "type": "work"
+        }
+      ],
+      "birthday": "1995-06-15",
+      "emails": [
+        {
+          "email": "jithin@bluebex.in",
+          "type": "work"
+        }
+      ],
+      "name": {
+        "formatted_name": "Jithin Jacob",
+        "first_name": "Jithin",
+        "last_name": "Jacob",
+        "middle_name": "",
+        "suffix": "",
+        "prefix": "Mr."
       },
-      {
-        "type": "button",
-        "sub_type": "url",
-        "index": "0",
-        "parameters": [
-          { "type": "text", "text": "https://your-payment-link.com/view" }
-        ]
-      }
-    ]
-  }
+      "org": {
+        "company": "BlueBex Tech Solutions",
+        "department": "IT",
+        "title": "Software Engineer"
+      },
+      "phones": [
+        {
+          "phone": "919164949099",
+          "type": "mobile",
+          "wa_id": "919164949099"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://bluebex.in",
+          "type": "work"
+        }
+      ]
+    }
+  ]
 }
