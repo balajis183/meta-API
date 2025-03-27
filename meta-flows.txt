@@ -1,0 +1,44 @@
+{
+    "messaging_product": "whatsapp",
+    "to": "919108105XXX",
+    "type": "template",
+    "template": {
+        "name": "bluebex_survey",
+        "language": {
+            "code": "en"
+        },
+        "components": [
+            {
+                "type": "header",
+                "parameters": [
+                    {
+                        "type": "image",
+                        "image": {
+                            "id": "9801615363183757"
+                        }
+                    }
+                ]
+            },
+            {
+                "type": "body",
+                "parameters": [
+                    {
+                        "type": "text",
+                        "text": "Balaji S"
+                    }
+                ]
+            },
+            {
+                "type": "button",
+                "sub_type": "flow",
+                "index": "0",
+                "parameters": [
+                    {
+                        "type": "payload",
+                        "payload": "1367487441266143"
+                    }
+                ]
+            }
+        ]
+    }
+}
