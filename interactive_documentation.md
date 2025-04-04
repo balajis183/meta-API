@@ -67,11 +67,14 @@ If the session is closed, use a template message to re-initiate.
   }
 }
 
+```
 ---
 
 #  📋 Follow-Up Interactive List (Only After User Replies)
 ### Once the user replies, you can send an interactive list message like this:
 
+
+```json
 {
   "messaging_product": "whatsapp",
   "recipient_type": "individual",
@@ -110,6 +113,7 @@ If the session is closed, use a template message to re-initiate.
   }
 }
 
+```
 
 ### 🧪 Suggested Flow
 
