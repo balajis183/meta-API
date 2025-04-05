@@ -1,4 +1,4 @@
-# 📌 Understanding `mv` vs `git mv` in Git
+# 📌 Understanding `mv` vs `git mv` in Git ( use commands where moving multiple files at ease)
 
 ## 🧐 The Question: Why Does `mv` Work Without `git mv`?
 When organizing files in a Git repository, you might wonder:
