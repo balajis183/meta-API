@@ -185,6 +185,12 @@ messaging_product = whatsapp
 - Use this ID in your template message to send as a document
 
 ---
+# screenshots
+![image](https://github.com/user-attachments/assets/98e9cac0-d2ae-4ae4-a576-90e0a8199c9f)
+
+![image](https://github.com/user-attachments/assets/8510a2bf-4320-4e34-aaf2-993e5bd1ca78)
+
+![image](https://github.com/user-attachments/assets/45f496b6-9350-4ea0-b1bc-055bca55c8dc)
 
 ✅ With this setup, you can dynamically send invoices to customers on WhatsApp with personalized names and documents — either using a hosted link or by uploading to Meta.
 
