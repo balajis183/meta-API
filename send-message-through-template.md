@@ -43,7 +43,7 @@ POST https://graph.facebook.com/v22.0/512728175267525/messages
 - `to` is the recipient's WhatsApp number in international format.
 
 
-### To recipient receives this message in their whatsapp Account !!
+### Recipient receives this message in their whatsapp Account !!
 
 The template has this text predefined!!!
 ```
